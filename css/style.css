@@ -1335,10 +1335,10 @@ form label {
 }
 
 .heart i {
-    font-size: 20px;
-    background: #f3f3f3;
-    padding: 20px;
-    color: #113468;
+    font-size: 45px;
+    background: #dce7ff;
+    padding: 15px;
+    color: #0f7daa;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
